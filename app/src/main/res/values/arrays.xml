@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="images">
+        <item>@drawable/wonwoo</item>
+        <item>@drawable/seungwoo</item>
+        <item>@drawable/doyoung</item>
+        <item>@drawable/chanyeol</item>
+        <item>@drawable/hongbin</item>
+        <item>@drawable/seungyoun</item>
+        <item>@drawable/hangyul</item>
+        <item>@drawable/jeonghan</item>
+    </array>
+
+    <string-array name="names">
+        <item>Wonwoo</item>
+        <item>Seungwoo</item>
+        <item>Doyoung</item>
+        <item>Chanyeol</item>
+        <item>Hongbin</item>
+        <item>Seungyoun</item>
+        <item>Hangyul</item>
+        <item>Jeonghan</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Wonwoo is a member of boygroup Seventeen. He is born in July 17th on the year of 1996. He has mad acting skills and his verse in No Flex Zone is just so good. Pledis please give this boy an individual schedule I miss him already.</item>
+        <item>Seungwoo is a member and leader of boygroup VICTON. As of now, he is currently in X1 lineup as the main vocal and leader. He is born in December 24th on the year of 1994. He is good at everything and reportedly can not be drunk. Stan Seungwoo.</item>
+        <item>Doyoung is probably the smartest member of boygroup NCT. He is in NCT 127 unit and have participated in NCT U. He is born in February 1st on the year of 1996. He is just so witty and he also has nice voice.</item>
+        <item>Chanyeol is the tallest member of boygroup EXO. He is a rapper in the said group, and also a part of sub-unit EXO-SC with Sehun. Heis born in November 27th on the year of 1992. He is dubbed as national boyfriend and acts like one.</item>
+        <item>Hongbin is a member of boygroup VIXX. He is also an actor and has starred in multiple dramas. Hongbin LOVES gaming. He used to host daily livestream when he does not have schedules. He is born in September 29th in the year of 1993.</item>
+        <item>Seungyoun is a member of boygroup UNIQ and also a soloist who goes by the name WOODZ and Luizy.  As of now, he is currently in X1 lineup as lead vocal and lead rapper. He is born in in August 5th in the year of 1996. Stan Seungyoun.</item>
+        <item>Hangyul is a member of boygroup I.M..  As of now, he is currently in X1 lineup as the main dancer. Hangyul participated in The Unit but did not make the final lineup. He is born in December 7th in the year of 1999. Finally someone younger.</item>
+        <item>Jeonghan is a member of boygroup Seventeen. He is born in October 4th on the year of 1995. He is insanely pretty and handsome at the same time. NEVER trust him, he is a clever swindler despite his angelic facade. He is a devil.</item>
+    </string-array>
+
+    <string-array name="urls">
+        <item>https://www.youtube.com/watch?v=ap14O5-G7UA</item>
+        <item>https://www.youtube.com/watch?v=LlQEKB2H7z4</item>
+        <item>https://www.youtube.com/watch?v=x95oZNxW5Rc</item>
+        <item>https://www.youtube.com/watch?v=pSudEWBAYRE</item>
+        <item>https://www.youtube.com/watch?v=MctZLEYlU4s</item>
+        <item>https://www.youtube.com/watch?v=LlQEKB2H7z4</item>
+        <item>https://www.youtube.com/watch?v=LlQEKB2H7z4</item>
+        <item>https://www.youtube.com/watch?v=ap14O5-G7UA</item>
+    </string-array>
+</resources>
